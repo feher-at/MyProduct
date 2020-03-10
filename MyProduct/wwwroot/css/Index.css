@@ -1,0 +1,24 @@
+﻿body 
+{
+    background-color: lightcyan
+}
+
+#welcome{
+
+    text-align: center;
+    font-weight: bold;
+    font-size:42px;
+
+     
+}
+#CommandSubmit{
+    font-weight:bold;
+    font-size:x-large;
+}
+ ol{
+     border-style:solid ;
+     border-radius:3px;
+     border-color: blue;
+     width: 50%
+ }
+
